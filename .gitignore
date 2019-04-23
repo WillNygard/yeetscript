@@ -1,6 +1,5 @@
 
 *.ipch
-a.exe
-a.exe
+*a.exe
 *.ipch
-a.exe
+
