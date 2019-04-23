@@ -1,8 +1,9 @@
+/*YeetScript
+A meme found on r/programmerhumor
+expanded*/
+
 #include "yeet.h"
 #include "yeetfunc.h"
-
-
-//yeetscript
 
 yeet Yeet yEet yeEt yeeT
     yEEt yeET YEEt yEET YEET YeEt
