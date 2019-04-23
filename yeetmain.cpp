@@ -2,7 +2,7 @@
 #include "yeetfunc.h"
 
 
-//Yeetspeak
+//yeetscript
 
 yeet Yeet yEet yeEt yeeT
     yEEt yeET YEEt yEET YEET YeEt
