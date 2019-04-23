@@ -3,7 +3,6 @@
 
 
 //Yeetspeak
-yeett yeeeet yEet yeEt YeEt
 
 yeet Yeet yEet yeEt yeeT
     yEEt yeET YEEt yEET YEET YeEt
