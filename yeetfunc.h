@@ -1,8 +1,9 @@
 /*Functions non translated
 to yeetscript*/
-
 #include <iostream>
 
 void yeeeet(){
-    std::cout << "test";
+    for(int i = 0; i < 20; i++){
+        std::cout << "yeet!\n";
+    }
 }
