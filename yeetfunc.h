@@ -1,6 +1,7 @@
 /*Functions non translated
 to yeetscript*/
 #include <iostream>
+void yeeeet();
 
 void yeeeet(){
     int yeets;
@@ -9,5 +10,5 @@ void yeeeet(){
     for(int i = 0; i < yeets; i++){
         std::cout << "yeet!\n";
     }
-
+    std::cout << "Finished!\n";
 }
