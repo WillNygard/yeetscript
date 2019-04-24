@@ -12,6 +12,6 @@ of #define to convert to yeet */
 #define yeET ::
 #define YEEt cout
 #define yEET <<
-#define YEET "Yeet!"
+#define YEET "Yeet!\n"
 #define YeEt ;
 #define yeett void

@@ -3,7 +3,11 @@ to yeetscript*/
 #include <iostream>
 
 void yeeeet(){
-    for(int i = 0; i < 20; i++){
+    int yeets;
+    std::cout << "How many yeets? ";
+    std::cin >> yeets;
+    for(int i = 0; i < yeets; i++){
         std::cout << "yeet!\n";
     }
+
 }
