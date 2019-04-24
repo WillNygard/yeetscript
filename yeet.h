@@ -16,3 +16,5 @@ of #define to convert to yeet */
 #define YEET "Yeet!\n"
 #define YeEt ;
 #define yeett void
+#define yeeeet yeetCount
+#define yyet yeetArrays

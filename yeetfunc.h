@@ -1,9 +1,9 @@
 /*Functions non translated
 to yeetscript*/
 #include <iostream>
-void yeeeet();
+void yeetCount();
 
-void yeeeet(){
+void yeetCount(){
     int yeets;
     std::cout << "How many yeets? >";
     std::cin >> yeets;
@@ -11,4 +11,9 @@ void yeeeet(){
         std::cout << "yeet!\n";
     }
     std::cout << "Finished!\n";
+}
+
+void yeetArrays(){
+    int yeeb[2] = {69, 420};
+    std::cout << yeeb[0];
 }
